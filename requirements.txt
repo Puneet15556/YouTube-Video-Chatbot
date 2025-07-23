@@ -1,0 +1,2 @@
+pip install -q youtube-transcript-api langchain-community langchain-openai \
+               faiss-cpu tiktoken python-dotenv
